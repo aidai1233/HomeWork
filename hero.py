@@ -106,4 +106,4 @@ print(f'\n {hero3}')
 print(f'Урон до критического: {hero3.damage}')
 hero3.crit()
 print(f'Урон после критического: {hero3.damage}')
-print()
+
